@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "email": "emu@gmail.com",
+      "password": "$2a$10$BOh7imKqVCTdRYMVAcaJI.lnxDyy.kXN8PSFL5sdBWkjXxxUiumb6",
+      "name": "Emu",
+      "img": "https://st.depositphotos.com/1144472/1532/i/450/depositphotos_15320783-stock-photo-portrait-of-young-woman-at.jpg",
+      "id": 1
+    },
+    {
+      "email": "nitu@gmail.com",
+      "password": "$2a$10$AdM7rSHi4oLwOSgp/ovPnuxOt92ae01diJzH8Z9foTym.13EfBte.",
+      "name": "Nitu",
+      "img": "https://previews.123rf.com/images/flukesamed/flukesamed1407/flukesamed140700014/30020064-passport-photo-of-young-attractive-beautiful-woman-in-white-shirt-and-suit-isolated-on-a-white-backg.jpg",
+      "id": 2
+    },
+    {
+      "email": "alif@gmail.com",
+      "password": "$2a$10$RVLXoCg66Or6H5GGiEBBD.QQ8L77ifej3qyzQ.wJfWoe51mZjP9Iy",
+      "name": "Alif",
+      "img": "https://thumbs.dreamstime.com/z/young-man-standing-crossed-arms-pose-square-composition-photo-portrait-happy-smiling-face-male-model-blue-green-background-187062104.jpg",
+      "id": 3
+    },
+    {
+      "email": "tushar@gmail.com",
+      "password": "$2a$10$44FO517E7HwBpT3Fnp6YaeTTIzMBdfPnfH73AcSvgO4xvRWmGvXge",
+      "name": "Tushar",
+      "img": "https://thumbs.dreamstime.com/b/handsome-man-smile-white-shirt-handsome-man-smile-white-shirt-black-trousers-posing-studio-attractive-125019426.jpg",
+      "id": 4
+    },
+    {
+      "email": "rimu@gmail.com",
+      "password": "$2a$10$dCUGYSaQtco30PqMCp.vK.jQd7WkDQK25488wpOr4R4xAnpwVbzkO",
+      "name": "Rimu",
+      "img": "https://thumbs.dreamstime.com/b/passport-photo-portrait-asian-smiling-woman-113405489.jpg",
+      "id": 5
+    },
+    {
+      "email": "ravina@gmail.com",
+      "password": "$2a$10$wn8l4F75hEbrvm5wMxsVteNDWaLwEkiAT.x04yf163tNdREs9f0Hi",
+      "name": "Ravina",
+      "img": "https://i.pinimg.com/736x/6f/de/85/6fde85b86c86526af5e99ce85f57432e.jpg",
+      "id": 6
+    },
+    {
+      "email": "hijbi@gmail.com",
+      "password": "$2a$10$E88ND34R3IEvtDDDg3i.jufb3LCHcfYvmV.PXHDonnPng69tjsQh6",
+      "name": "Hijbullah",
+      "img": "https://thumbs.dreamstime.com/b/handsome-man-hair-style-beard-beauty-face-portrait-fashion-male-model-black-hair-high-resolution-handsome-man-125031765.jpg",
+      "id": 7
+    }
+  ],
+  "projects": [
+    {
+      "title": "Create a Blog web page",
+      "team": {
+        "teamId": 1,
+        "teamName": "Design",
+        "color": "amber"
+      },
+      "status": "Doing",
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        }
+      ],
+      "timestamp": 1664033051442,
+      "createdBy": "emu@gmail.com",
+      "id": 1
+    },
+    {
+      "title": "Creting an E-commerce site",
+      "team": {
+        "teamId": 2,
+        "teamName": "Development",
+        "color": "lime"
+      },
+      "status": "Done",
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        }
+      ],
+      "timestamp": 1664035816578,
+      "createdBy": "emu@gmail.com",
+      "id": 2
+    },
+    {
+      "title": "Create a blog page",
+      "team": {
+        "teamId": 3,
+        "teamName": "Wordpress",
+        "color": "indigo"
+      },
+      "status": "Backlog",
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        },
+        {
+          "name": "Alif",
+          "email": "alif@gmail.com"
+        }
+      ],
+      "timestamp": 1664035835058,
+      "createdBy": "emu@gmail.com",
+      "id": 3
+    },
+    {
+      "title": "Create a project management website",
+      "team": {
+        "teamId": 4,
+        "teamName": "Redux",
+        "color": "pink"
+      },
+      "status": "Doing",
+      "timestamp": 1664042203709,
+      "createdBy": "emu@gmail.com",
+      "id": 5,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        },
+        {
+          "name": "Nitu",
+          "email": "nitu@gmail.com"
+        },
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        },
+        {
+          "name": "Rimu",
+          "email": "rimu@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Create a chat application",
+      "team": {
+        "teamId": 4,
+        "teamName": "Redux",
+        "color": "pink"
+      },
+      "status": "Ready",
+      "timestamp": 1664196929216,
+      "createdBy": "emu@gmail.com",
+      "id": 6,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        },
+        {
+          "name": "Nitu",
+          "email": "nitu@gmail.com"
+        },
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        },
+        {
+          "name": "Rimu",
+          "email": "rimu@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Create a todo app",
+      "team": {
+        "teamId": 2,
+        "teamName": "Development",
+        "color": "lime",
+        "members": [
+          {
+            "name": "Emu",
+            "email": "emu@gmail.com"
+          }
+        ]
+      },
+      "status": "Backlog",
+      "timestamp": 1664203781052,
+      "createdBy": "emu@gmail.com",
+      "id": 7
+    }
+  ],
+  "teams": [
+    {
+      "teamName": "Design",
+      "description": "This team design UI of a website",
+      "color": "amber",
+      "timestamp": 1664032434514,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        }
+      ],
+      "createdBy": "emu@gmail.com",
+      "id": 1
+    },
+    {
+      "teamName": "Development",
+      "description": "This team develop website using programming",
+      "color": "lime",
+      "timestamp": 1664032479738,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        }
+      ],
+      "createdBy": "emu@gmail.com",
+      "id": 2
+    },
+    {
+      "teamName": "Wordpress",
+      "description": "This team design website using wordpress",
+      "color": "indigo",
+      "timestamp": 1664032521716,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        },
+        {
+          "name": "Alif",
+          "email": "alif@gmail.com"
+        }
+      ],
+      "createdBy": "emu@gmail.com",
+      "id": 3
+    },
+    {
+      "teamName": "Redux",
+      "description": "This team manage all the state of a website",
+      "color": "pink",
+      "timestamp": 1664042064695,
+      "members": [
+        {
+          "name": "Emu",
+          "email": "emu@gmail.com"
+        },
+        {
+          "name": "Nitu",
+          "email": "nitu@gmail.com"
+        },
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        },
+        {
+          "name": "Rimu",
+          "email": "rimu@gmail.com"
+        }
+      ],
+      "createdBy": "emu@gmail.com",
+      "id": 4
+    }
+  ]
+}
