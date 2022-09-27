@@ -146,7 +146,7 @@
         "teamName": "Redux",
         "color": "pink"
       },
-      "status": "Ready",
+      "status": "Backlog",
       "timestamp": 1664196929216,
       "createdBy": "emu@gmail.com",
       "id": 6,
@@ -186,6 +186,32 @@
       "timestamp": 1664203781052,
       "createdBy": "emu@gmail.com",
       "id": 7
+    },
+    {
+      "title": "Create a video gallery",
+      "team": {
+        "teamId": 5,
+        "teamName": "React",
+        "color": "teal"
+      },
+      "status": "Backlog",
+      "members": [
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        },
+        {
+          "name": "Nitu",
+          "email": "nitu@gmail.com"
+        },
+        {
+          "name": "Ravina",
+          "email": "ravina@gmail.com"
+        }
+      ],
+      "timestamp": 1664291120601,
+      "createdBy": "tushar@gmail.com",
+      "id": 8
     }
   ],
   "teams": [
@@ -260,6 +286,42 @@
       ],
       "createdBy": "emu@gmail.com",
       "id": 4
+    },
+    {
+      "teamName": "React",
+      "description": "This team use react for frontend development",
+      "color": "teal",
+      "timestamp": 1664290950719,
+      "members": [
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        },
+        {
+          "name": "Nitu",
+          "email": "nitu@gmail.com"
+        },
+        {
+          "name": "Ravina",
+          "email": "ravina@gmail.com"
+        }
+      ],
+      "createdBy": "tushar@gmail.com",
+      "id": 5
+    },
+    {
+      "teamName": "Tester team",
+      "description": "This team test projects",
+      "color": "stone",
+      "timestamp": 1664291479631,
+      "members": [
+        {
+          "name": "Tushar",
+          "email": "tushar@gmail.com"
+        }
+      ],
+      "createdBy": "tushar@gmail.com",
+      "id": 6
     }
   ]
 }
